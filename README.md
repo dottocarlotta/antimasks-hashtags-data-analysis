@@ -24,8 +24,9 @@ We then tagged them by ‘pro-masks’ or ‘anti-masks’ categories, and analy
 All data comes from the Twitter API.
 
 ### Analysis
-⋅[This document](https://github.com/dottocarlotta/antimasks-hashtags-data-analysis/blob/master/NoMasks-analysis.ipynb) walks through the data analysis of #NoMasks in July 2020. It provides reproducible code for parsing out the hashtags in the tweets and for creating key visualizations.
 
-This document reproduces the analysis for the French #StopMasques.
+• [This document](https://github.com/dottocarlotta/antimasks-hashtags-data-analysis/blob/master/NoMasks-analysis.ipynb) walks through the data analysis of #NoMasks in July 2020. It provides reproducible code for parsing out the hashtags in the tweets and for creating key visualizations.
+
+• This document reproduces the analysis for the French #StopMasques.
 
 
