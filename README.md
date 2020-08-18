@@ -2,6 +2,7 @@
 
 ### How First Draft used Twitter data and Python's Pandas and Regex to analyse the spread of anti-masks hashtags
 Carlotta Dotto, First Draft
+
 August 18, 2020
 
 This repository contains data and code supporting a First Draft article (LINK) examining the #NoMasks hashtag trending on Twitter on July 292. Published ---. See below for details.
@@ -22,11 +23,9 @@ We then tagged them by ‘pro-masks’ or ‘anti-masks’ categories, and analy
 
 All data comes from the Twitter API.
 
-link to csvs
-
 ### Analysis
-This document walks through the data analysis portion of the research, providing reproducible code for the key visualizations.
+⋅[This document](https://github.com/dottocarlotta/antimasks-hashtags-data-analysis/blob/master/NoMasks-analysis.ipynb) walks through the data analysis of #NoMasks in July 2020. It provides reproducible code for parsing out the hashtags in the tweets and for creating key visualizations.
 
-Links to Github 1 and github 2.
+This document reproduces the analysis for the French #StopMasques.
 
 
