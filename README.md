@@ -2,3 +2,12 @@
 
 This repository contains data and code supporting a First Draft article (LINK) examining the #NoMasks hashtag trennding on Twitter on July 292. Published ---. See below for details.
 
+## Methodology
+
+dhfhfhf
+
+### Data
+
+fjfjf
+
+### Analysis
