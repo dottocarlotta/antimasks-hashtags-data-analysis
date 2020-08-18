@@ -9,7 +9,9 @@ This repository contains data and code supporting a First Draft article (LINK) e
 
 ## Methodology
 
-We gathered 33,450 Twitter posts containing #NoMasks in July 2020. We analysed the trend over time and the top associated hashtags.
+We gathered 33,450 Twitter posts containing #NoMasks in July 2020 and 1660 posts with the French hashtag #StopMasques between July 20 and August 4. 
+
+We analyzed the trend over time and parsed out the most common hashtags in the tweets.
 
 We then focused the analysis on the tweets posted on July 14 — the day of the Government announcement that made masks compulsory in shops. 
 
