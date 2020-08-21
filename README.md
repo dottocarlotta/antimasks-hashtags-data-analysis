@@ -5,7 +5,7 @@ Carlotta Dotto, First Draft
 
 August 18, 2020
 
-This repository contains data and code supporting a [First Draft article] (https://firstdraftnews.org/latest/coronavirus-how-pro-mask-posts-boost-the-anti-mask-movement/) examining the #NoMasks hashtag trending on Twitter on July 292. Published on August 21, 2020. See below for details.
+This repository contains data and code supporting a [First Draft article](https://firstdraftnews.org/latest/coronavirus-how-pro-mask-posts-boost-the-anti-mask-movement) examining the #NoMasks hashtag trending on Twitter on July 292. Published on August 21, 2020. See below for details.
 
 ## Methodology
 
@@ -23,7 +23,7 @@ We then tagged them based on whether they were  “Pro-Masks” or “Anti-Masks
 
 ## Data
 
-[Data] () was scraped from the Twitter API.
+[Data](https://github.com/dottocarlotta/antimasks-hashtags-data-analysis/tree/master/data) was scraped from the Twitter API.
 
 ### Analysis
 
