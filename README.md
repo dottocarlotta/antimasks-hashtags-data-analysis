@@ -5,7 +5,7 @@ Carlotta Dotto, First Draft
 
 August 18, 2020
 
-This repository contains data and code supporting a First Draft article (LINK) examining the #NoMasks hashtag trending on Twitter on July 292. Published ---. See below for details.
+This repository contains data and code supporting a [First Draft article] (https://firstdraftnews.org/latest/coronavirus-how-pro-mask-posts-boost-the-anti-mask-movement/) examining the #NoMasks hashtag trending on Twitter on July 292. Published on August 21, 2020. See below for details.
 
 ## Methodology
 
@@ -13,17 +13,17 @@ We gathered 33,450 Twitter posts containing #NoMasks in July 2020 and 1660 posts
 
 We analyzed the trend over time and parsed out the most common hashtags in the tweets.
 
-We then focused the analysis on the tweets posted on July 14 — the day of the Government announcement that made masks compulsory in shops. 
+We then focused the analysis on the tweets posted on July 14 — the day of the UK Government announcement that made masks compulsory in shops. 
 
-After filtering out the ‘false positive’ tweets which contained US or Australian focused messages and we manually analysed the 222 resulting posts which gained at least 10 retweets on July 14. 
+After filtering out the false positive tweets that contained US- or Australian-focused messages, we manually analyzed the 222 resulting posts that gained at least a little traffic — more than 10 retweets — on July 14. 
 
-We then tagged them by ‘pro-masks’ or ‘anti-masks’ categories, and analyzed both groups by top associated hashtags and by total number of retweets and likes by hours.
+We then tagged them based on whether they were  “Pro-Masks” or “Anti-Masks” and analyzed both groups by top associated hashtags and by the total number of retweets and likes per hour.
 
 ---
 
 ## Data
 
-All data comes from the Twitter API.
+[Data] () was scraped from the Twitter API.
 
 ### Analysis
 
