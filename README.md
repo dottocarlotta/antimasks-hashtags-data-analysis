@@ -7,15 +7,11 @@ This repository contains data and code supporting a [First Draft article](https:
 
 ## Methodology
 
-We gathered 33,450 Twitter posts containing #NoMasks in July 2020 and 1660 posts with the French hashtag #StopMasques between July 20 and August 4. 
+We gathered 46,170 tweets and retweets containing the #UnitedAgainstJehad hashtag between May 13 and May 17. 
 
-We analyzed the trend over time and parsed out the most common hashtags in the tweets.
+We used Python's Pandas to analyse the main actors, to extract their creation dates and select the most common hashtags in the tweets and accounts' bio. 
 
-We then focused the analysis on the tweets posted on July 14 — the day of the UK Government announcement that made masks compulsory in shops. 
-
-After filtering out the false positive tweets that contained US- or Australian-focused messages, we manually analyzed the 222 resulting posts that gained at least a little traffic — more than 10 retweets — on July 14. 
-
-We then tagged them based on whether they were  “Pro-Masks” or “Anti-Masks” and analyzed both groups by top associated hashtags and by the total number of retweets and likes per hour.
+Network analysis was performed on Gephi, resizing the nodes based on the in-degree (pict 1) and out-degree values (pict 2). We used the «ForceAtlas 2» layout to bring accounts that frequently mentioned each other closer together. 
 
 ---
 
@@ -25,8 +21,7 @@ We then tagged them based on whether they were  “Pro-Masks” or “Anti-Masks
 
 ## Analysis
 
-• [This document](https://github.com/dottocarlotta/antimasks-hashtags-data-analysis/blob/master/NoMasks-analysis.ipynb) walks through the data analysis of #NoMasks in July 2020. It provides reproducible code for parsing out the hashtags in the tweets and for creating key visualizations.
+• [This document](https://github.com/dottocarlotta/antimasks-hashtags-data-analysis/blob/master/NoMasks-analysis.ipynb) walks through the data analysis of #UnitedAgainstJehad hashtag. It provides reproducible code for parsing out the hashtags in the tweets and for creating key visualizations.
 
-• [This document](https://github.com/dottocarlotta/antimasks-hashtags-data-analysis/blob/master/Stopmasques-analysis.ipynb) reproduces the analysis for the French #StopMasques.
 
 
